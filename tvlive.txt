@@ -170,8 +170,6 @@ CGTN-西班牙语国际,http://livees.cgtn.com/1000e/prog_index.m3u8
 浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江中国蓝新闻,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
-浙江中国蓝新闻,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
 辽宁卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
 辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
 辽宁卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225735/index.m3u8
@@ -2178,6 +2176,9 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 【全球】,#genre#
 亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
+NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8?zshijd
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
