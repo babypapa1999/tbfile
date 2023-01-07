@@ -1,4 +1,3 @@
-
 【央视】,#genre#
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
@@ -342,8 +341,8 @@ KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
-【数字】,#genre#
 
+【数字】,#genre#
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8.m3u8?zzhongd
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
@@ -407,7 +406,7 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 
 
 【NTV】,#genre#
-
+NewTV,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
 NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 NewTV黑莓电竞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
 NewTV黑莓动画[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
@@ -418,7 +417,6 @@ NewTV黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/322122
 NewTV黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
 NewTV黑莓电影[1920*1080],http://111.40.196.32/PLTV/88888888/224/3221225610/index.m3u8
 NewTV黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-NewTV,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
 NewTV炫舞未来,http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
 NewTV炫舞未来,http://39.135.138.60:18890/PLTV/88888910/224/3221225707/index.m3u8
 NewTV爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
@@ -533,7 +531,6 @@ NewTV新华英文[1280*720],http://39.135.138.58:18890/PLTV/88888888/224/3221225
 爱浪漫IHOT(高清),http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
 
 
-
 ［HOT2］
 爱院线,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=no
 爱科幻,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=no
@@ -568,8 +565,6 @@ NewTV新华英文[1280*720],http://39.135.138.58:18890/PLTV/88888888/224/3221225
 
 
 【影集】,#genre#
-
-
 惊悚午夜,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
 票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 五星影院,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
@@ -1045,7 +1040,6 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 文山州公共,http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv?zyund
 普洱新闻综合,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel12/playlist.m3u8?zyund
 普洱新闻综合,rtmp://tv.pebtv.cn:1936/channerllive/ch1?zyund
-
 西双版纳综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
 西双版纳综合,http://live.ynbit.com/hls/bn-1/index.m3u8?zyund
 西双版纳公共,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
@@ -1217,6 +1211,9 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 梓潼新闻综合,rtmp://live.sctvcloud.com/live/zttv-1?zsicd
 
 【湖北】,#genre#
+湖北卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225699/index.m3u8
+湖北卫视,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000001000010355&livemode=1&stbId=2&channel-id=ystenlive
+湖北卫视,http://140.207.241.3:8080/live/program/live/hbwshd/4000000/mnf.m3u8
 武汉新闻综合,http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8?zhubd
 武汉新闻综合,http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8?zhubd
 十堰新闻,http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8?zhubd
@@ -1235,6 +1232,11 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 
 【山东】,#genre#
+山东卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225738/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+山东卫视,http://140.207.241.3:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+山东卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
 山东教育卫视,http://39.135.32.10:6610/000000001000/SD-4000k-576P-shandongjy/1.m3u8?IASHttpSessionId=OTT?shandd
 山东教育卫视,http://117.148.179.157/PLTV/88888888/224/3221231549/index.m3u8?shandd
 中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
@@ -1366,6 +1368,7 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 桐城新闻,http://pili-live-hls.ahtc.tianma3600.com/ahtc/tcxw.m3u8?zanhd
 
 【贵州】,#genre#
+贵州卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225728/index.m3u8
 黔南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 黔南公共,rtmp://tv.qntv.net/channellive/ch2?zguizd
 安顺新闻,https://player.juyun.tv/camera/64413134.m3u8?zguizd
@@ -1381,6 +1384,8 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 仁怀新闻,https://ali-live.rh163.cn/live/app1.m3u8?zguizd
 
 【广西】,#genre#
+广西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
+广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 南宁新闻综合,rtmp://rtmp.nntv.cn/nnlive/NNTV_NEWS_A?zguangxd
 南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
@@ -1430,7 +1435,6 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 西林综合,https://cdn.gdlive.gdmain.com/live/lj16xrkl.m3u8?zguangxd
 
 【山西】,#genre#
-山西,http://39.135.32.10:6610/000000001000/SD-4000k-576P-shanxistv/1.m3u8?IASHttpSessionId=OTT?zshanxd
 山西影院,http://liveflash.sxrtv.com/live/sxfilm.flv?zshanxd
 山西公共,http://liveflash.sxrtv.com/live/sxpublic.flv?zshanxd
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.flv?zshanxd
@@ -1446,7 +1450,6 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 长治教育,http://111.53.105.2:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect {User-Agent@0151?zshanxd}
 柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8?zshanxd
 离石综合,https://p4.weizan.cn/1135473620/373615394535215266/live.m3u8?zshanxd
-
 孝义新闻综合,http://app.xygdcm.com:2036/live/stream:xy1.stream/playlist.m3u8?zshanxd
 黎城综合,http://111.53.96.67:8081/live/1/index.m3u8?zshanxd
 屯留综合,http://qqlivepull.seedata.top/live/tunliu_video1.m3u8?zshanxd
@@ -1472,7 +1475,8 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 阳城电视台,https://liveout.ycxrmt.cn/i9i45p/en7atk.m3u8?zshanxd
 
 【重庆】,#genre#
-重庆,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-chongqingstv/1.m3u8?IASHttpSessionId=OTT?zzhongqd
+重庆卫视,http://183.207.255.197/live/program/live/cqws/1300000/mnf.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd
 大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
@@ -1496,6 +1500,8 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 涪陵电视台,http://livefuling.chinamcache.com/liveful/fldszb001.flv?zzhongqd
 
 【河南】,#genre#
+河南卫视,http://112.17.40.220/PLTV/88888888/224/3221231729/index.m3u8
+河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
 中牟综合频道,http://rtsp.zmgdcm.cn:9850/playServer/acquirePlayService?type=live&resourceId=1000000000000001&protocol=hls0&drmType=none&deviceGroup=TV(STB)&op=sovp&playType=catchup&redirect.m3u8?zhend
@@ -1539,6 +1545,8 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 
 【陕西】,#genre#
+陕西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
+陕西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225531/index.m3u8?fmt=ts2hls
 西安新闻综,http://stream2.xiancity.cn/xatv1/sd/live.m3u8?zhend
 西安白鸽,http://stream2.xiancity.cn/xatv2/sd/live.m3u8?zhend
 西安影院,http://stream2.xiancity.cn/xatv4/sd/live.m3u8?zhend
@@ -1546,7 +1554,8 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 宝鸡新闻综合,http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=855832649489747@6346@61F67E9317723A9A2760B896A213349B {User-Agent@0151?zhend}
 
 【黑龙江】,#genre#
-黑龙江,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-heilongjiangstv/1.m3u8?IASHttpSessionId=OTT?zheild
+黑龙江卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225736/index.m3u8
+黑龙江卫视,http://39.135.138.60:18890/TVOD/88888910/224/3221225690/index.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
 黑龙江文体,http://39.134.65.145/PLTV/88888888/224/3221226012/1.m3u8?zheild
 黑龙江文体,http://39.134.65.151/PLTV/88888888/224/3221225965/1.m3u8?zheild
@@ -1583,14 +1592,18 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 甘南县综合,http://player.juyun.tv/camera/65362146.m3u8?zheild
 
 【辽宁】,#genre#
-辽宁,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-liaoningstv/1.m3u8?IASHttpSessionId=OTT?zliaond
+辽宁卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+辽宁卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225735/index.m3u8
+辽宁卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/4000000/mnf.m3u8
 丹东新闻综合,http://pili-live-hdl.zhdd.tianma3600.com/zhddgbds/dspd1.m3u8?zliaond
 朝阳新闻综合,https://play.cytv01.cygbdst.com/live/cyxwtv.m3u8?zliaond
 朝阳教育,https://play.cytv01.cygbdst.com/live/jypdtv.m3u8?zliaond
 辽宁北方,http://42.176.185.28:9901/tsfile/live/1011_1.m3u8?zliaond
 
 【内蒙】,#genre#
-内蒙古,http://39.135.32.10:6610/000000001000/SD-4000k-576P-neimenggustv/1.m3u8?IASHttpSessionId=OTT?zneimd
+内蒙古卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225667/index.m3u8
+内蒙古卫视,http://111.40.196.39/PLTV/88888888/224/3221225574/index.m3u8
 呼和浩特新闻综合,http://cdnpull.0471tv.org.cn/live/test1.m3u8?zneimd
 呼和浩特都市生活,http://cdnpull.0471tv.org.cn/live/test2.m3u8?zneimd
 鄂尔多斯新闻综合,http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8?zneimd
@@ -1613,7 +1626,7 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 鄂温克电视台,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8?zneimd
 
 【新疆】,#genre#
-新疆,http://39.135.32.10:6610/000000001000/SD-4000k-576P-xinjiangstv/1.m3u8?IASHttpSessionId=OTT?zxinjd
+新疆卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225725/index.m3u8
 兵团卫视,http://39.135.32.10:6610/000000001000/SD-4000k-576P-bingtuanstv/1.m3u8?IASHttpSessionId=OTT?zxinjd
 克拉玛依汉语综合,https://klmyzb.rcsxzx.com/hls/klmy1.m3u8?zxinjd
 克拉玛依维语综合,https://klmyzb.rcsxzx.com/hls/klmy2.m3u8?zxinjd
@@ -1641,7 +1654,8 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 
 【青海】,#genre#
-青海,http://39.135.32.10:6610/000000001000/SD-4000k-576P-qinghaistv/1.m3u8?IASHttpSessionId=OTT?zxinjd
+青海卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225727/index.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 安多卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8?zqinghd
 玉树新闻,http://stream.ysbtv.net/1/sd/live.m3u8?zqinghd
 海南州藏语,http://live.hnzzzzzdst.com/channel1/sd/live.m3u8?zqinghd
@@ -1655,7 +1669,6 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
 
 【宁夏】,#genre#
-宁夏,http://39.135.32.10:6610/000000001000/SD-4000k-576P-ningxiastv/1.m3u8?IASHttpSessionId=OTT?zningxd
 宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6 {User-Agent@0151?zningxd}
 宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1 {User-Agent@0151?zningxd}
 银川生活,http://www.ycen.com.cn/ycxw/sd/live.m3u8?zningxd
@@ -1664,13 +1677,14 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 
 【海南】,#genre#
-海南,http://39.135.32.10:6610/000000001000/lvyoustv/1.m3u8?IASHttpSessionId=OTT?zhaind
+海南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+海南卫视,http://140.207.241.2:8080/live/program/live/lyws/1300000/mnf.m3u8
 海口新闻,http://p2.weizan.cn/11763520/218605596729758130/live.m3u8
 海口经济,http://p2.weizan.cn/11763520/862975416677893268/live.m3u8
 海口生活,http://p2.weizan.cn/11763520/437504960339513614/live.m3u8
 
 【吉林】,#genre#
-吉林,http://39.135.32.10:6610/000000001000/jilinstv/1.m3u8?IASHttpSessionId=OTT?zjild
+吉林卫视,http://stream4.jlntv.cn/test2/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
@@ -1707,7 +1721,8 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 
 【河北】,#genre#
-河北,http://39.135.32.10:6610/000000001000/SD-4000k-576P-hebeistv/1.m3u8?IASHttpSessionId=OTT?zhebd
+河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 河北都市,https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8?zhebd
 河北影剧,https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8?zhebd
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
@@ -1732,7 +1747,9 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 涿州生活频道,http://121.18.115.162:8082/live/ch4.m3u8?zhebd
 
 【天津】,#genre#
-天津,http://39.135.32.24:6610/000000001000/1000000001000000831/1.m3u8?xtkg?ztianjd
+天津卫视,http://140.207.241.3:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+天津卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225739/index.m3u8
 宁河新闻,http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8?ztianjd
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
 滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
@@ -1742,7 +1759,7 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 【西藏】,#genre#
-西藏,http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zxicd
+西藏藏语卫视,http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 藏语,http://111.40.196.9/PLTV/88888888/224/3221225676/index.m3u8?zxicd
 西藏影文化,rtmp://113.62.170.99:1935/live/tvchannel2?zxicd
 
