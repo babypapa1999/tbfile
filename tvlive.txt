@@ -118,15 +118,6 @@ CCTV8K 超高清,http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
 电视指南,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226708/10000100000000060000000006385178_0.smil
 卫生健康,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 梨园频道,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8?zshijd
-CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?zshijd
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
-CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
-CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
-CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
-CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 CETV-1,http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
 CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 CETV-1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
@@ -135,6 +126,7 @@ CETV-3,http://txycsbl.centv.cn/zb/0728cetv3.m3u8
 CETV-4,http://txycsbl.centv.cn/zb/0728cetv4.m3u8
 CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
+CGTN-纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 CCTV新影老故事,http://111.20.33.106/PLTV/88888893/224/3221226236/index.m3u8?icpid=88888893&from=1&hms_devid=844,543
 CCTV新影老故事,http://111.20.33.93/PLTV/88888893/224/3221226236/index.m3u8
 新影 发现之旅,http://111.20.33.93/PLTV/88888893/224/3221226235/index.m3u8
@@ -143,8 +135,6 @@ CNC-新华英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m
 CNC英文,http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
-CGTN-西班牙语国际,http://livees.cgtn.com/1000e/prog_index.m3u8
-
 
 
 【卫视】,#genre#
@@ -283,8 +273,15 @@ CGTN-西班牙语国际,http://livees.cgtn.com/1000e/prog_index.m3u8
 凤凰卫视咨询台,http://171.108.239.13:8181/tsfile/live/1024_1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
-RTHKTV,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+华丽翡翠台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
+翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+有线电视台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+有线财经台,http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
+有线直播台,http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
+美亚电影台,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+纬来电影台,http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
+RTHK,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 【宝岛】,#genre#
@@ -292,11 +289,14 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBSHD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVB财经,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8?$1M1280x720
+东森新闻台,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 CHY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+民视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视综合台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
 民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 民视HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
@@ -304,11 +304,10 @@ HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 华视新闻资讯,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-大愛一臺,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+RT英语新闻,http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
+寰宇新闻台,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+莲花电影台,http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -365,6 +364,7 @@ KH_BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?z
 KH_TV9,http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?zshijd
 KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?zshijd
 NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
