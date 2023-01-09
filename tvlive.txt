@@ -290,8 +290,18 @@ RTHKTV,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 【宝岛】,#genre#
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBSHD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+TVB财经,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8?$1M1280x720
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+CHY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+民视综合台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+民视HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+民视第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+华视新闻资讯,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 大愛一臺,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -344,6 +354,7 @@ MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
 NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+CNA新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 印尼_TVRIKanal3,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8?zshijd
