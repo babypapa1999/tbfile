@@ -1624,7 +1624,7 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 朝阳教育,https://play.cytv01.cygbdst.com/live/jypdtv.m3u8?zliaond
 辽宁北方,http://42.176.185.28:9901/tsfile/live/1011_1.m3u8?zliaond
 
-【内蒙】,#genre#
+【内蒙古】,#genre#
 内蒙古卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225667/index.m3u8
 内蒙古卫视,http://111.40.196.39/PLTV/88888888/224/3221225574/index.m3u8
 呼和浩特新闻综合,http://cdnpull.0471tv.org.cn/live/test1.m3u8?zneimd
