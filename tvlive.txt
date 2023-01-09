@@ -312,12 +312,10 @@ RT英语新闻,http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?zshijd
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+
 
 【韩国】,#genre#
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
